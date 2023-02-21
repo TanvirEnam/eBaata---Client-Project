@@ -1,7 +1,11 @@
 # eBaata-Client-Project 
+
 - Examined Google Analytics data and identified ways to increase revenue and improve future marketing strategies. 
 - Profile customer preferences and created audience segments from online properties to target ideal buyers.
+
+
 Sources: 
+
 Staff, V. B. (2022, March 1). Report: A majority of consumers want to prioritize buying from black-owned businesses. VentureBeat. Retrieved December 3, 2022, from https://venturebeat.com/enterprise/report-a-majority-of-consumers-want-to-prioritize-buying-from-black-owned-businesses/ 
 Holman, J. (2022, March 10). What gets people buying black-owned brands long-term. Bloomberg.com. Retrieved December 3, 2022, from https://www.bloomberg.com/news/newsletters/2022-03-10/what-gets-people-buying-black-owned-brands-long-term
 Tag products on Instagram to help attract more customers. Instagram for Business. (n.d.). Retrieved December 2, 2022, from https://business.instagram.com/blog/instagram-shopping-product-tags-customers
